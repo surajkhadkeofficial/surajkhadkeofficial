@@ -19,7 +19,6 @@
 - 🎓 **BCA 2nd Year @ COCSIT Latur** — targeting AI/ML engineering roles by 2027
 - 🔭 Currently building: **Telegram AI Agent (Gemini API)** & **Smart Answer Sheet Evaluator**
 - 🌱 Learning: Deep Learning, NLP, DSA (Neetcode 150), Full-Stack Python
-- 💼 Target companies: Zoho, Freshworks, AI-first startups, Defence Tech
 - 📍 Latur, Maharashtra · 🌐 surajkhadke.dev
 
 ---
@@ -47,13 +46,6 @@
 
 ---
 
-### 🎵 Musica — Music Web App
-> Full-stack music player with user auth, song upload/playback, Spotify metadata + YouTube iframe integration.
-
-**Stack:** `Flask` `SQLite` `Spotify API` `YouTube iFrame` `Replit`
-
----
-
 ### 🏥 Disease Prediction System
 > Tkinter-based symptom analyzer powered by Gemini AI. Generates PDF diagnostic reports via ReportLab.
 
@@ -72,7 +64,7 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, HTML, CSS |
+| **Languages** | Python, C programming, C++ SQL,  |
 | **ML / AI** | PyTorch, scikit-learn, HuggingFace Transformers, Gemini API |
 | **Computer Vision** | OpenCV, TrOCR |
 | **Web** | Flask, SQLite |
@@ -102,4 +94,3 @@ DSA Progress     ████████████░░░░░░░░░
 - 📧 surajkhadke777@gmail.com
 - 📸 Instagram: [@surajkhadkeofficial](https://instagram.com/surajkhadkeofficial)
 - 🌐 surajkhadke.dev
-- 💼 LinkedIn: [Add your LinkedIn URL]
